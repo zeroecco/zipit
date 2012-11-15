@@ -18,6 +18,10 @@ Zipit will download your php based app to your local system using the Zip extens
 
 1. If the zipit.php file is not writable by the process the file WILL NOT GET REMOVED!
 
-1. Downloads in excess of 500M have been seen to have issues due to timeouts.
+1. Downloads in excess of 500M have been seen to have issues due to timeouts and/or space limitations.
+
+## Acknowledgement
+
+The recursive zip function itself came from this stackoverflow article: http://stackoverflow.com/questions/1334613/how-to-recursively-zip-a-directory-in-php
 
 
