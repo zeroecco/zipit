@@ -14,6 +14,7 @@ Zipit will download your php based app to your local system using the Zip extens
 1. Once the zipball is downloaded, the zipball is removed, as is the zipit.php file.
 
 
+note:  While the page is loading, the script is actually zipping your app up for you, for larger apps this can take up to 2 minutes to complete (depending on your server).
 ## Known Issues
 
 1. If the zipit.php file is not writable by the process the file WILL NOT GET REMOVED!
