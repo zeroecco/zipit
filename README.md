@@ -15,11 +15,11 @@ Tool for recursively zipping and downloading your php based application. This me
         git commit -m "adding zipit for fast app downloading"
         git push origin master 
 
-1. Navigate to your the Zipit file on your live application (example http://foo.com/zipit.php).
+3. Navigate to your the Zipit file on your live application (example http://foo.com/zipit.php).
 
   * Note: there is a security risk here, if someone else navigates to the URL first they could download your application.
 
-1. Enjoy!
+4. Enjoy!
 
 ## How it Works
 
