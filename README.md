@@ -11,9 +11,9 @@ Tool for recursively zipping and downloading your php based application. This me
   
   * If using git you will need to: 
 
-      git add zipit.php
-      git commit -m "adding zipit for fast app downloading"
-      git push origin master 
+        git add zipit.php
+        git commit -m "adding zipit for fast app downloading"
+        git push origin master 
 
 1. Navigate to your the Zipit file on your live application (example http://foo.com/zipit.php).
 
